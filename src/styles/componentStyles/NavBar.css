@@ -1,0 +1,15 @@
+.navbar {
+  display: flex;
+  justify-content: flex-end ;
+  align-items: center;
+  height: 10vh;
+  background-color: #f8f8f8;
+  border: 1px solid red;
+}
+.navbar ul {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  gap: 5rem;
+  margin-right: 10rem;
+}
